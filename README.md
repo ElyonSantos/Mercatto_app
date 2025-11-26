@@ -1,8 +1,9 @@
 # Mercatto App
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Kivy](https://img.shields.io/badge/GUI-Kivy-green?style=for-the-badge)
 ![KivyMD](https://img.shields.io/badge/GUI-KivyMD-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Inactive-failed?style=for-the-badge)
 
 A lightweight **Point of Sale (POS)** and inventory management application built with **Python** and **KivyMD**. Mercatto App offers a streamlined solution for small businesses to manage sales, stock, and transactions efficiently.
 
@@ -10,12 +11,12 @@ A lightweight **Point of Sale (POS)** and inventory management application built
 
 ## Key Features
 
-* ** Sales Management:** Process transactions seamlessly with support for multiple payment methods (Cash, Debit, Credit, Boleto, Cheque).
-* ** Inventory Control:** Track products, categories, and monitor stock levels in real-time.
-* ** Sales History:** comprehensive view of completed sales with detailed records for auditing.
-* ** Product Catalog:** Quick access to product registry with customizable visibility settings.
-* ** Discounts & Surcharges:** Apply dynamic adjustments to transactions instantly at checkout.
-* ** Data Isolation:** Automated database structure creation ensures each user account operates with isolated data.
+* **Sales Management:** Process transactions seamlessly with support for multiple payment methods (Cash, Debit, Credit, Boleto, Cheque).
+* **Inventory Control:** Track products, categories, and monitor stock levels in real-time.
+* **Sales History:** comprehensive view of completed sales with detailed records for auditing.
+* **Product Catalog:** Quick access to product registry with customizable visibility settings.
+* **Discounts & Surcharges:** Apply dynamic adjustments to transactions instantly at checkout.
+* **Data Isolation:** Automated database structure creation ensures each user account operates with isolated data.
 
 ## Tech Stack
 
